@@ -21,8 +21,22 @@ print("A" + "B" + "C") # Simple string concatenation
 
 print("A" * 5) # String repetition
 
-print("A" * (2 ** 3 + 3 - (7 / 1) // 4)) # String repetition, it will not work because a float value was provided as argument
+## print("A" * (2 ** 3 + 3 - (7 / 1) // 4)) # String repetition, it will not work because a float value was provided as argument
 
 print("A" * int(2 ** 3 + 3 - (7 / 1) // 4)) # String repetition, you need to provide an int value
 
 ### Comparative operators ###
+
+print(3 > 4)
+print(3 < 4)
+print(3 >= 4)
+print(3 <= 4)
+print(3 == 4)
+print(3 != 4)
+
+# Dictionary/alpabetic order
+print("AA" > "F")
+print("AbCa" >= "AbcA")
+
+### Logical operators ###
+# True, False, and, or, not
