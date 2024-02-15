@@ -63,6 +63,7 @@ print("\t", my_other_list)
 
 del my_other_list[len(my_other_list) - 1] # Remove an element by index
 print("\t", my_other_list)
+# Notice: del word is used to "delete" variables, like dispose of objects
 
 c += 1
 
