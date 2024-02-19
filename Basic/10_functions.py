@@ -2,7 +2,7 @@
 
 c = 1
 
-#1
+#1 You cannot call a function before defining it, it must appear before in the code or it will not work
 
 def my_function():
 	print("Hello")
