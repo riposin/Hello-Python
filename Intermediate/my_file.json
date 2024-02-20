@@ -1,0 +1,11 @@
+{
+	"name": "Ricardo",
+	"age": 35,
+	"address": "Calle Falsa 123",
+	"languages": [
+		"Python",
+		"Java",
+		"C++"
+	],
+	"height": 1.77
+}
